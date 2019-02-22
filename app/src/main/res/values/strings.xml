@@ -1,0 +1,11 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">just java</string>
+    <string name="toppings">Toppings</string>
+    <string name="thank_you">Thank You!</string>
+    <string name="order_summary_name">Name:<xliff:g id = "name" example = "Amy">%s</xliff:g></string>
+    <string name="customText">
+        <item name = "android:textsize">20sp</item>
+        <item name = "android:textcolor">4527A0</item>
+        <item name = "android:textstyle">italic</item>
+    </string>
+</resources>

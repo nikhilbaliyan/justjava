@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+    <style name="customText">
+        <item name="android:text"> 20sp</item>
+        <item name="android:textColor"> #4527A0</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+        <!-- Customize your theme here. -->
+
+</resources>
